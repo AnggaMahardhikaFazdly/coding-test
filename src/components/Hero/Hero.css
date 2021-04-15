@@ -1,0 +1,12 @@
+.dot-1,
+.dot-2,
+.dot-3 {
+    width: 30px !important;
+    height: 3px;
+    margin: 3px;
+    border: none;
+}
+
+.dot-1 {
+    background-color: #CA171E;
+}

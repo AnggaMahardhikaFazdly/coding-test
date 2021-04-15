@@ -1,0 +1,90 @@
+.our-clients {
+    margin-bottom: 50px;
+    width: 100%;
+}
+
+.our-clients-title {
+    margin: 50px 80px 0px 80px;
+}
+
+.clients-header-grid-2 {
+    text-align: right;
+}
+
+.clients-header-text {
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.clients-header-tagline {
+    text-transform: capitalize;
+    color: #CA171E;
+}
+
+.clients-header-button {
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 700;
+    border: 2px solid #CA171E;
+    border-radius: 6px;
+    width: 115px;
+    padding: 10px;
+}
+
+.carousel-clients {
+    width: 100%;
+    padding: 50px;
+}
+
+.carousel-grid-1 {
+    margin: 70px 0px 0px 0px;
+    text-align: end;
+    opacity: 0.5;
+}
+
+.carousel-grid-1:hover {
+    opacity: 0.7 !important;
+}
+
+
+.carousel-grid-9 {
+    margin: 70px 0px 0px 20px;
+    opacity: 0.5;
+}
+
+.carousel-grid-9:hover {
+    opacity: 0.7 !important;
+}
+
+.clients-img {
+    width: 120px;
+    margin-bottom: 15px;
+}
+
+.headline-clients {
+    margin: auto;
+    text-align: center;
+    line-height: 100px;
+}
+
+.tagline-clients {
+    text-transform: uppercase;
+    font-style: italic;
+    font-size: 34px;
+}
+
+.mark-tagline-clients {
+    font-weight: 900;
+    text-decoration: underline;
+    text-decoration-color: rgb(250, 250, 7);
+}
+
+.btn-action-clients {
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 700;
+    border: 2px solid #CA171E;
+    border-radius: 6px;
+    width: 240px;
+    padding: 10px;
+}

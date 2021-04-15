@@ -1,0 +1,276 @@
+.products {
+    margin-bottom: 200px;
+    width: 100%;
+}
+
+.products-title {
+    margin: 50px 80px 0px 80px;
+}
+
+.products-header-grid-2 {
+    text-align: right;
+}
+
+.products-header-text {
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.products-header-tagline {
+    text-transform: capitalize;
+    color: #CA171E;
+}
+
+.products-header-button {
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 700;
+    border: 2px solid #CA171E;
+    border-radius: 6px;
+    width: 115px;
+    padding: 10px;
+}
+
+.products-card-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: first baseline;
+}
+
+.products-card {
+    width: 23.7rem;
+    height: 14rem;
+    margin: 0.5rem;
+}
+
+.body-card-1 {
+    background-color: #CA171E;
+}
+
+.img-cover-1 {
+    margin-top: 2rem;
+    margin-left: 6rem;
+    margin-right: 2rem;
+    width: 8rem;
+    height: 7rem;
+}
+
+.title-card-1 {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #f1f1f1;
+    letter-spacing: 2px;
+    margin-top: 20px;
+    opacity: 0.7;
+}
+
+.body-card-2 {
+    background-color: #CA171E;
+}
+
+.img-cover-2 {
+    margin-top: 2rem;
+    margin-left: 6rem;
+    margin-right: 2rem;
+    width: 8rem;
+    height: 7rem;
+}
+
+.title-card-2 {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #f1f1f1;
+    letter-spacing: 2px;
+    margin-top: 20px;
+    opacity: 0.7;
+}
+
+.body-card-3 {
+    background-color: #db9b0f !important;
+}
+
+.img-cover-3 {
+    margin-top: -1.3rem;
+    margin-left: -1.3rem;
+    width: 23.7rem;
+    height: 14rem;
+}
+
+.title-card-3 {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #f1f1f1;
+    letter-spacing: 2px;
+    margin-top: 45px;
+    opacity: 0.7;
+}
+
+.body-card-4 {
+    background-color: #424244;
+}
+
+.img-cover-4 {
+    margin-left: 3rem;
+    margin-top: 1rem;
+    width: 15rem;
+    height: 10rem;
+}
+
+.title-card-4 {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #f1f1f1;
+    letter-spacing: 2px;
+    margin-top: -15px;
+    opacity: 0.7;
+}
+
+.body-card-5 {
+    background-color: #f5d0d0 !important;
+}
+
+.img-cover-5 {
+    margin-top: 2rem;
+    margin-left: 6rem;
+    margin-right: 2rem;
+    width: 8rem;
+    height: 7rem;
+}
+
+.title-card-5 {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #f1f1f1;
+    letter-spacing: 2px;
+    margin-top: 20px;
+    opacity: 0.7;
+}
+
+.body-card-6 {
+    background-color: #db9b0f !important;
+}
+
+.img-cover-6 {
+    margin-top: 3.5rem;
+    margin-left: 8rem;
+    margin-right: 2rem;
+    width: 5rem;
+    height: 4rem;
+}
+
+.title-card-6 {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #f1f1f1;
+    letter-spacing: 2px;
+    margin-top: 45px;
+    opacity: 0.7;
+}
+
+.body-card-7 {
+    background-color: #53d5ec;
+}
+
+.img-cover-7 {
+    margin-top: 2rem;
+    margin-left: 7rem;
+    margin-right: 2rem;
+    width: 6rem;
+    height: 5rem;
+}
+
+.title-card-7 {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #f1f1f1;
+    letter-spacing: 2px;
+    margin-top: 50px;
+    opacity: 0.7;
+}
+
+.body-card-8 {
+    background-color: #be7a7a !important;
+}
+
+.img-cover-8 {
+    margin-top: 2rem;
+    margin-left: 6rem;
+    margin-right: 2rem;
+    width: 8rem;
+    height: 7rem;
+}
+
+.title-card-8 {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #f1f1f1;
+    letter-spacing: 2px;
+    margin-top: 20px;
+    opacity: 0.7;
+}
+
+.body-card-9 {
+    background-color: #161252 !important;
+}
+
+.img-cover-9 {
+    margin-top: 5rem;
+    margin-left: 8rem;
+    margin-right: 2rem;
+    width: 5rem;
+    height: 4rem;
+}
+
+.title-card-9 {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #f1f1f1;
+    letter-spacing: 2px;
+    margin-top: 20px;
+    opacity: 0.7;
+}
+
+.body-card-10 {
+    background-color: #CA171E;
+}
+
+.img-cover-10 {
+    margin-top: 3.5rem;
+    margin-left: 6rem;
+    margin-right: 2rem;
+    width: 8rem;
+    height: 3rem;
+}
+
+.title-card-10 {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #f1f1f1;
+    letter-spacing: 2px;
+    margin-top: 50px !important;
+    opacity: 0.7;
+}
+
+.bottom-line-1 {
+    margin-top: 70px;
+    margin-left: 80px;
+    margin-right: 80px;
+    border: 1px solid #adacac;
+}
+
+.bottom-line-2 {
+    margin-top: -10px;
+    margin-left: 80px;
+    margin-right: 80px;
+    border: 1px solid #adacac;
+}
