@@ -45,12 +45,8 @@
     width: 88%;
     transition: all 250ms linear;
     -ms-overflow-style: none;
-    /* hide scrollbar in IE and Edge */
     scrollbar-width: none;
-    /* hide scrollbar in Firefox */
 }
-
-/* hide scrollbar in webkit browser */
 
 .carousel-content::-webkit-scrollbar,
 .carousel-content::-webkit-scrollbar {
@@ -74,19 +70,6 @@
 .carousel-content.show-4>* {
     width: calc(100% / 4);
 }
-
-/* .left-arrow-button,
-.right-arrow-button {}
-
-.left-arrow-button:hover,
-.right-arrow-button:hover {
-    background-color: #ddd;
-}
-
-.left-arrow-button:focus,
-.right-arrow-button:focus {
-    outline: none;
-}*/
 
 
 .left-arrow {
@@ -116,9 +99,7 @@
     align-items: center;
     margin: 0 auto;
     -ms-overflow-style: none;
-    /* hide scrollbar in IE and Edge */
     scrollbar-width: none;
-    /* hide scrollbar in Firefox */
 }
 
 .indicator-container::-webkit-scrollbar,
@@ -191,7 +172,7 @@
     background-color: #797575;
 }
 
-.bottom-line {
+.works-bottom-line {
     margin-top: 70px;
     margin-left: 80px;
     margin-right: 80px;

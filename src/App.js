@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './App.css';
 import { BrowserRouter as Router } from 'react-router-dom';
 import { GlobalStyle } from './globalStyles';
 import Hero from './components/Hero';

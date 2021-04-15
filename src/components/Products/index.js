@@ -17,7 +17,7 @@ const Products = () => {
     return (
         <div className="products">
             <div className="products-title">
-                <Row md={2.5}>
+                <Row md={2.5} className="products-header">
                     <Col className="products-header-grid-1">
                         <h2 className="products-header-text">products</h2>
                         <p className="products-header-tagline">what we can do for you</p>

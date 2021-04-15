@@ -1,4 +1,5 @@
 body {
+  width: 100%;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,37 +11,4 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-}
-
-.scrollTop {
-  color: #CA171E;
-  position: fixed;
-  width: 100%;
-  bottom: 50px;
-  height: 50px;
-  z-index: 1000;
-  cursor: pointer;
-  animation: fadeIn 0.3s;
-  transition: opacity 0.4s;
-  opacity: 1;
-  margin-left: 40vw;
-}
-
-.scrollTop:hover {
-  opacity: 0.5;
-}
-
-
-::-webkit-scrollbar {
-  width: 7px;
-}
-
-::-webkit-scrollbar-thumb {
-  background: -webkit-gradient(linear, left top, left bottom, from(#CA171E), to(#101010));
-  box-shadow: inset 2px 2px 2px rgba(255, 255, 255, 0.25), inset -2px -2px -2px rgba(0, 0, 0, 0.25);
-  border-radius: 30px;
-}
-
-::-webkit-scrollbar-track {
-  background: linear-gradient(to right, #201c29, #201c29 1px, #100e17 1px, #100e17);
 }

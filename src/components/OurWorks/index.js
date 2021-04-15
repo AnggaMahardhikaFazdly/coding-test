@@ -29,7 +29,7 @@ function Carousel() {
                 <input className="dot-2" id="image2" name="image"></input>
                 <input className="dot-3" id="image3" name="image"></input>
             </div>
-            <hr className="bottom-line" />
+            <hr className="works-bottom-line" />
         </div>
     );
 }

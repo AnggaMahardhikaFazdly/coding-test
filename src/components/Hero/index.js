@@ -24,7 +24,7 @@ const Hero = () => {
                 <Navbar toggle={toggle} />
                 <Sidebar isOpen={isOpen} toggle={toggle} />
                 <HeroContent>
-                    <HeroItems>
+                    <HeroItems className="hero-item">
                         <HeroH1>28 Million Community</HeroH1>
                         <HeroBtn>Lets Work With Us</HeroBtn>
                     </HeroItems>
